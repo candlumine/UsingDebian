@@ -2,4 +2,4 @@
 
 Mark the problem faced when using Debian 9.5
 
-* mt7601u -360ËæÉíWifi¶ş´úµÄÊ¹ÓÃ
+* mt7601u -360éšèº«WifiäºŒä»£çš„ä½¿ç”¨
